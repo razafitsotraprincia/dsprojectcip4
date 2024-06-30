@@ -1,0 +1,916 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2101</field>
+            <field name="Variant">Medium</field>
+            <field name="Value"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2100</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">1.9666</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2099</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">1.9821</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2098</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">1.9844</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2097</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">1.9903</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2096</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0001</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2095</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">1.9959</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2094</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">1.9999</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2093</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0106</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2092</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0211</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2091</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0291</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2090</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0416</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2089</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0462</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2088</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0641</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2087</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0653</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2086</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0766</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2085</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0793</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2084</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.0956</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2083</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.099</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2082</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1059</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2081</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1347</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2080</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.145</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2079</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1565</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2078</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1745</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2077</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1876</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2076</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.1958</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2075</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2155</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2074</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.234</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2073</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2508</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2072</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2582</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2071</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2806</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2070</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.2948</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2069</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3005</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2068</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3195</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2067</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3275</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2066</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3497</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2065</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3725</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2064</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.3905</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2063</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.4094</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2062</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.4372</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2061</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.4512</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2060</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.4754</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2059</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.4979</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2058</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.5064</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2057</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.5289</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2056</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.5496</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2055</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.5701</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2054</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.6018</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2053</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.6198</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2052</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.6404</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2051</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.6563</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2050</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.6823</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2049</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.7086</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2048</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.7303</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2047</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.7583</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2046</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.7847</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2045</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.8082</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2044</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.8286</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2043</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.8649</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2042</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.886</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2041</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.9282</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2040</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">2.9613</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2039</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.0017</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2038</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.0314</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2037</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.0602</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2036</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.0966</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2035</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.142</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2034</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.1863</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2033</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.2375</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2032</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.2731</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2031</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.318</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2030</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.3614</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2029</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.4084</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2028</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.4596</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2027</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.5033</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2026</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.5499</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2025</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.6095</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2024</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.6674</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2023</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.7341</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2022</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.7906</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2021</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.8514</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2020</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9183</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2019</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">3.9783</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2018</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.0434</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2017</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.1087</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2016</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.1634</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2015</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.1829</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2014</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.2473</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2013</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.3582</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2012</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.4664</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2011</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.6072</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2010</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.7553</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2009</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.8696</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2008</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.9326</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2007</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">4.9968</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2006</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.0559</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2005</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.0947</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2004</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.1328</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2003</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.1721</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2002</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.2252</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2001</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.323</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">2000</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.4029</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1999</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.5493</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1998</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.6752</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1997</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.8005</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1996</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.8883</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1995</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.9462</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1994</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">5.9903</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1993</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.041</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1992</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.0801</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1991</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.1221</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1990</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.1611</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1989</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.1766</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1988</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.2143</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1987</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.2871</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1986</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.3073</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1985</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.3531</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1984</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.4098</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1983</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.4772</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1982</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.5536</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1981</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.6373</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1980</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.7252</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1979</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.8134</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1978</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.898</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1977</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">6.9755</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1976</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.0438</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1975</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.1015</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1974</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.1489</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1973</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.1881</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1972</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.2209</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1971</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.2481</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1970</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.2698</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1969</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.2862</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1968</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.2975</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1967</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3042</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1966</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3075</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1965</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3082</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1964</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3072</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1963</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3054</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1962</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3032</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1961</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3014</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1960</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3002</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1959</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.2998</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1958</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.2998</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1957</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1956</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3003</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1955</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3005</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1954</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3006</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1953</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3004</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1952</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1951</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.2993</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year(s)">1950</field>
+            <field name="Variant">Medium</field>
+            <field name="Value">7.2989</field>
+        </record>
+    </data>
+</ROOT>
